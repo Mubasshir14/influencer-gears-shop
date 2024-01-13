@@ -312,7 +312,7 @@ line-height: 24px; /* 171.429% */
     .box {
         grid-template-columns: 1fr;
         margin: auto;
-       
+       margin-left: -10px;
     }
     .box img{
         
